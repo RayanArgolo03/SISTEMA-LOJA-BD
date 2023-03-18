@@ -1,0 +1,45 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 1158,
+      "versionNonce": 219598477,
+      "isDeleted": false,
+      "id": "fJGphX2YJ7JFda6FX-vOW",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 605.9341256486266,
+      "y": 5248.07380241871,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 1750.78125,
+      "height": 950.3999999999999,
+      "seed": 1006665448,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1678729561013,
+      "link": null,
+      "locked": false,
+      "fontSize": 36,
+      "fontFamily": 3,
+      "text": "BD LOJA - CONTROLE DE VENDAS, CLIENTES E PRODUTOS\n\nPRECISO DO NOME, CPF,  DATA DE NASCIMENTO, EMAIL DO CLIENTE.\nPRECISO SABER TAMBÉM SE MEU CLIENTE ESTÁ COM A CONTA ATIVADA\nOU DESATIVADA\n\nPRECISO CATEGORIZAR MEUS PRODUTOS: FRIOS, CARNES, LEGUMES E ETC\n\nMEUS PRODUTOS PRECISAM TER CATEGORIA, NOME, PREÇO E TAMBÉM SABER A QUANTIDADE\nDE PRODUTOS NO ESTOQUE; QUANTO TENHO DE CADA PRODUTO\n\nPRECISO DE UM CONTROLE DAS VENDAS: SABER QUEM COMPROU, QUANDO FOI A VENDA, O NÚMERO\nDA VENDA E O VALOR TOTAL DAQUELA VENDA\n\nPRECISO TAMBÉM TER UM CONTROLE SOBRE OS ITENS DESSA VENDA: SE TEM ALGUM DESCONTO,\nQUAIS PRODUTOS FORAM COMPRADOS, O NÚMERO DESSA VENDA (CASO QUEIRA COMPRAR MAIS DE \nUM PRODUTO POR VENDA) E O VALOR DO PRODUTO DAQUELA VENDA \n\n\n\n\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "BD LOJA - CONTROLE DE VENDAS, CLIENTES E PRODUTOS\n\nPRECISO DO NOME, CPF,  DATA DE NASCIMENTO, EMAIL DO CLIENTE.\nPRECISO SABER TAMBÉM SE MEU CLIENTE ESTÁ COM A CONTA ATIVADA\nOU DESATIVADA\n\nPRECISO CATEGORIZAR MEUS PRODUTOS: FRIOS, CARNES, LEGUMES E ETC\n\nMEUS PRODUTOS PRECISAM TER CATEGORIA, NOME, PREÇO E TAMBÉM SABER A QUANTIDADE\nDE PRODUTOS NO ESTOQUE; QUANTO TENHO DE CADA PRODUTO\n\nPRECISO DE UM CONTROLE DAS VENDAS: SABER QUEM COMPROU, QUANDO FOI A VENDA, O NÚMERO\nDA VENDA E O VALOR TOTAL DAQUELA VENDA\n\nPRECISO TAMBÉM TER UM CONTROLE SOBRE OS ITENS DESSA VENDA: SE TEM ALGUM DESCONTO,\nQUAIS PRODUTOS FORAM COMPRADOS, O NÚMERO DESSA VENDA (CASO QUEIRA COMPRAR MAIS DE \nUM PRODUTO POR VENDA) E O VALOR DO PRODUTO DAQUELA VENDA \n\n\n\n\n"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
